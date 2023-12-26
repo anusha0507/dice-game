@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #393E46;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+
+.title {
+    color: #4ECCA3;
+    font-size: 8rem;
+    font-family: 'lobster';
+    text-shadow: #4c6363 5px 0 5px;
+    margin: 2.5rem 0 3.5rem;
+}
+
+.dice-img{ 
+    display: flex;
+    margin-bottom: 10rem;
+}   
+
+.imgs {
+    width: 60%;
+    text-align: center;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+footer p{
+    color: azure;
+    text-align: center;
+}
